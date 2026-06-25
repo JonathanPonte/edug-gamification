@@ -142,7 +142,8 @@ http://localhost:8080/swagger-ui.html
 
 - [x] Documento de requisitos
 - [x] Arquitetura do sistema
-- [ ] Auth Service
+- [x] Auth Service — registro e login com JWT ✅
+- [ ] Auth Service — refresh token, /validate, Swagger, testes
 - [ ] User Service
 - [ ] Mission Service
 - [ ] Score Service
