@@ -170,11 +170,19 @@ O sistema deve notificar o aluno quando:
 
 ## 11. Próximos Passos
 
+- [x] Criar estrutura base do projeto no GitHub
+- [x] Implementar Auth Service — registro e login com JWT ✅
+- [ ] Finalizar Auth Service (refresh token, /validate, Swagger, testes)
 - [ ] Definir schema de banco de dados de cada serviço
 - [ ] Mapear todos os endpoints REST por microsserviço
 - [ ] Definir os eventos publicados na fila RabbitMQ
-- [ ] Criar estrutura base do projeto no GitHub
-- [ ] Implementar Auth Service (primeiro serviço)
+- [ ] Implementar User Service
+- [ ] Implementar Mission Service
+- [ ] Implementar Score Service
+- [ ] Implementar Badge Service
+- [ ] Implementar Notification Service
+- [ ] Implementar API Gateway
+- [ ] Configurar CI/CD com GitHub Actions
 
 ---
 
