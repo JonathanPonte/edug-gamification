@@ -108,7 +108,7 @@ docker-compose up -d
 ```
 
 Isso irá subir:
-- PostgreSQL na porta `5432`
+- PostgreSQL na porta `5433`
 - MongoDB na porta `27017`
 - RabbitMQ na porta `5672` (painel em `15672`)
 - pgAdmin na porta `5050`
